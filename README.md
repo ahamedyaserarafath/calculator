@@ -5,7 +5,7 @@ Scientific Calculator using gcc compiler. It includes Arithmetic calculations, s
 
 
 
-[![Build Status](http://54.173.1.141:8080/job/Cinemo%20Pipeline/badge/icon)](http://54.173.1.141:8080/job/Cinemo%20Pipeline/)
+[![Build Status](http://54.173.1.141:8080/job/Cinemo%20Pipeline/badge/icon?style=plastic)](http://54.173.1.141:8080/job/Cinemo%20Pipeline/)
 
 [![Build Status](http://54.173.1.141:8080/buildStatus/icon?job=Cinemo Pipeline)](http://54.173.1.141:8080/job/Cinemo%20Pipeline/)
 
