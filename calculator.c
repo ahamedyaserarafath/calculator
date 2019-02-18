@@ -487,7 +487,7 @@ int oct_dec(int x)
 		r=x%10;
 		if(r==8||r==9)
 		{
-			printf("Syntax Error");
+			printf("Syntax Errorty");
 			break;
 		}
 		else
