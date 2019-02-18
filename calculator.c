@@ -589,3 +589,5 @@ void oct_hex(int x)
 	i=oct_dec(x);	
 	dec_hex(i);
 }
+
+asdas
