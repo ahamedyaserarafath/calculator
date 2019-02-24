@@ -590,4 +590,3 @@ void oct_hex(int x)
 	dec_hex(i);
 }
 
-testing faile
